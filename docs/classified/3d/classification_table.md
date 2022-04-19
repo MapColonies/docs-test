@@ -1,2 +1,2 @@
-**HELLO first page!**
+**3D CLASSIFIED**
 *URL IS <PYCSW-3D-SERVICE_URL>*

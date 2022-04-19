@@ -1,2 +1,2 @@
-**HELLO second page!**
+**DEM CLASSIFIED**
 *URL IS <PYCSW-DEM-SERVICE_URL>*
